@@ -12,7 +12,7 @@ First things first, let's talk about the entities / classes from our application
 classDiagram
     class User {
         -String id
-        -String name
+        -String firstName
         -String lastName
         -String email
         -String bio
