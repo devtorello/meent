@@ -1,4 +1,4 @@
-# 🐾 Meent
+# 🐢 Meent
 
 Hey, there! Welcome to Meent repository! Here's where all the magic happens. In case you're wondering, this is intended
 to be my first open source project.
