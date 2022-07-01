@@ -1,4 +1,4 @@
-# Mintsu's Architecture
+# Meent's Architecture
 
 ## Domain, our entities
 First things first, let's talk about the entities / classes from our application.

@@ -1,4 +1,4 @@
-package com.mintsu.dev
+package com.meent.app
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

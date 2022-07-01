@@ -1,3 +1,3 @@
-# Mintsu's Structure and Organization
+# Meent's Structure and Organization
 
 WIP.

@@ -1,6 +1,6 @@
-# 🐾 Mintsu
+# 🐾 Meent
 
-Hey, there! Welcome to Mintsu repository! Here's where all the magic happens. In case you're wondering, this is intended
+Hey, there! Welcome to Meent repository! Here's where all the magic happens. In case you're wondering, this is intended
 to be my first open source project.
 
 While I'm studying Kotlin, I plan to create an application to help developers to find mentors and, also, to become a

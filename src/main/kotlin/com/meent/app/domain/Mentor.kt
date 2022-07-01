@@ -1,4 +1,4 @@
-package com.mintsu.dev.domain
+package com.meent.app.domain
 
 data class Mentor(
     val id: String,
